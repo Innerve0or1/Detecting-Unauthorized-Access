@@ -45,5 +45,5 @@ In this project, we aim to detect unauthorized access by analyzing user behavior
 
 ## Google Colab Link 
 
-(https://colab.research.google.com/drive/1kS9fCwBEgAygPv1WmJxQijU6IH_XXESC?usp=sharing)
+https://colab.research.google.com/drive/1kS9fCwBEgAygPv1WmJxQijU6IH_XXESC?usp=sharing
 
