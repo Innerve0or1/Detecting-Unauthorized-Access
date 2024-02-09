@@ -8,6 +8,9 @@ Unauthorized access to user accounts and sensitive information poses a significa
 ### Solution
 In this project, we aim to detect unauthorized access by analyzing user behavior patterns using machine learning techniques. We leverage a dataset from Kaggle, preprocess the data, and train a machine learning model to classify user behavior as normal or suspicious/attack.
 
+![image](https://github.com/Innerve0or1/Detecting-Unauthorized-Access/assets/105493363/5720ef22-7def-4868-9f00-fc58f1fc9613)
+
+
 ## Process
 
 1. **Dataset Selection**: We chose the dataset from Kaggle, provided by Mohamed Saleh, which contains user behavior data.
