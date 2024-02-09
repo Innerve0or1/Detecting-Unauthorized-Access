@@ -38,10 +38,10 @@ In this project, we aim to detect unauthorized access by analyzing user behavior
 2. **Use Jupyter Notebook**: Using the given Dataset train the model.
 ## Contributors
 
--Prince Kumar
--Piyush Kumar
--Hemant Singh
--Vaibhav Singh
+- Prince Kumar
+- Piyush Kumar
+- Hemant Singh
+- Vaibhav Singh
 
 ##Google Colab Link 
 
