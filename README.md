@@ -42,7 +42,7 @@ In this project, we aim to detect unauthorized access by analyzing user behavior
 
 4. **Run Scripts**: Use the Python scripts in the `src/` directory to perform data preprocessing, model training, and evaluation tasks.
 
-5. **Deploy Model**: Deploy the trained model in a production environment for real-time detection of unauthorized access.
+5. **Deploy Model**: Deploy the trained model in production environment for real-time detection of unauthorized access.
 
 ## Contributors
 
