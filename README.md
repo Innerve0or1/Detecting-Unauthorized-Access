@@ -35,18 +35,7 @@ In this project, we aim to detect unauthorized access by analyzing user behavior
 
 1. **Clone the Repository**: Clone the project repository to your local machine.
 
-2. **Install Dependencies**: Install the required Python libraries specified in the `requirements.txt` file using pip.
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Explore Notebooks**: Explore the Jupyter notebooks in the `notebooks/` directory to understand the data exploration, preprocessing, model training, and evaluation processes.
-
-4. **Run Scripts**: Use the Python scripts in the `src/` directory to perform data preprocessing, model training, and evaluation tasks.
-
-5. **Deploy Model**: Deploy the trained model in production environment for the real-time detection of unauthorized access.
-
+2. **Use Jupyter Notebook**: Using the given Dataset train the model.
 ## Contributors
 
 -Prince Kumar
